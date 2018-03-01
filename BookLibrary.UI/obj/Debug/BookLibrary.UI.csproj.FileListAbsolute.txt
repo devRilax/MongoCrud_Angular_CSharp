@@ -1,0 +1,9 @@
+C:\Users\Danilo\Source\Repos\MongoCrud_Angular_CSharp\BookLibrary.UI\bin\BookLibrary.UI.dll.config
+C:\Users\Danilo\Source\Repos\MongoCrud_Angular_CSharp\BookLibrary.UI\bin\BookLibrary.UI.dll
+C:\Users\Danilo\Source\Repos\MongoCrud_Angular_CSharp\BookLibrary.UI\bin\BookLibrary.UI.pdb
+C:\Users\Danilo\Source\Repos\MongoCrud_Angular_CSharp\BookLibrary.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Danilo\Source\Repos\MongoCrud_Angular_CSharp\BookLibrary.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Danilo\Source\Repos\MongoCrud_Angular_CSharp\BookLibrary.UI\obj\Debug\BookLibrary.UI.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\Source\Repos\MongoCrud_Angular_CSharp\BookLibrary.UI\obj\Debug\BookLibrary.UI.dll
+C:\Users\Danilo\Source\Repos\MongoCrud_Angular_CSharp\BookLibrary.UI\obj\Debug\BookLibrary.UI.pdb
+C:\Users\Danilo\Source\Repos\MongoCrud_Angular_CSharp\BookLibrary.UI\obj\Debug\BookLibrary.UI.csprojResolveAssemblyReference.cache

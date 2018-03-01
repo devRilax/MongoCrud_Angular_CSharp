@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <link rel="stylesheet" href="resources/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="resources/angular/angular-toastr/dist/angular-toastr.min.css" />
+    
+  
+</head>
+
+<body ng-app="library.crud">
+
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand text-primary" href="#">BOOK STORE</a>
+            </div>
+            <ul class="nav navbar-nav">
+                <li><a href="#!home"> <i class="fas fa-home"></i>  <strong class="text-primary">Home</strong></a></li>
+                <li><a href="#!books"> <i class="fas fa-book"></i> <strong class="text-primary">Books</strong></a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div ng-view></div>
+    </div>
+
+    <footer>
+        <p class="text-center">
+            MongoDB + WebApi + C# + AngularJS
+        </p>
+    </footer>
+
+
+    <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+    <script src="resources/jquery/jquery.min.js"></script>
+    <script src="resources/bootstrap/js/bootstrap.min.js"></script>
+    <script src="resources/angular/angular.min.js"></script>
+    <script src="resources/angular/angular-animate/angular-animate.js"></script>
+    <script src="resources/angular/angular-sanitize/angular-sanitize.js"></script>
+    <script src="resources/bootstrap-ui/ui-bootstrap-tpls-2.5.0.min.js"></script>
+    <script src="resources/angular/angular-toastr/dist/angular-toastr.tpls.min.js"></script>
+    <script src="resources/angular/angular-route/angular-route.min.js"></script>
+
+
+
+
+    <script src="app/appConfig.js"></script>
+    <script src="app/services/book.service.js"></script>
+    <script src="app/views/controllers/books.controller.js"></script>
+    <script src="app/views/controllers/book.controller.js"></script>
+    <script src="app/views/controllers/home.controller.js"></script>
+</body>
+</html>
